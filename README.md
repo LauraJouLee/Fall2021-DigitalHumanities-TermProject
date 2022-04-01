@@ -25,4 +25,5 @@ The Weekly Top100 Charts showed the most popular songs across all genres, ranked
 Spotify provides access to extract music data, including artist, album and track data. The extracted data would become the metadata of the tracks in Billboard Hot 100, including genre and audio features.
 
 • Our World in Data COVID-19 dataset <br/>
-This dataset provides the daily cases, deaths, vaccinations, tests, etc. data of the world. The project would focus on the smoothed USA COVID data of daily cases, deaths, vaccinations and tests to compare the correlation of music and the pandemic.
+This dataset provides the daily cases, deaths, vaccinations, tests, etc. data of the world. The project would focus on the smoothed USA COVID data of daily cases, deaths, vaccinations and tests to compare the correlation of music and the pandemic. <br/>
+Link to **Our World in Data**: https://github.com/owid/covid-19-data/tree/master/public/data
